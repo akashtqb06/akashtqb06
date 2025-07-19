@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a developer who designs with intent. With 2+ years of experience, I specialize in building user-focused web apps, automating complex workflows, and leading data migrations in PLM systems. I bridge the gap between design and engineering—always with an eye on clarity, speed, and scalability.
+I'm a developer who designs with intent. With 2+ years of experience, I specialize in building user-focused web apps, automating complex workflows, and leading data migrations in PLM systems. I bridge the gap between design and engineering always with an eye on clarity, speed, and scalability.
 
 ---
 
