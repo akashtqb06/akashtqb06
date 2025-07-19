@@ -1,62 +1,86 @@
 # Hi, I'm Akash Saravanan 👋
 
-### Consultant | UX Enthusiast | Integration Developer  
-🔹 **Website:** [akashinsights.com](https://akashinsights.com)  
+### Full-Stack Developer | UX Designer | Workflow Specialist  
+🔹 **Portfolio:** [akash-insights.vercel.app](https://akash-insights.vercel.app)  
 🔹 **Email:** akashtqb06@gmail.com  
 🔹 **Phone:** +91 97902 45130  
 🔹 **GitHub:** [github.com/akashtqb06](https://github.com/akashtqb06)  
-🔹 **LinkedIn:** [linkedin.com/in/akash-saravanan](https://www.linkedin.com/in/akash-saravanan/)  
+🔹 **LinkedIn:** [linkedin.com/in/akash-saravanan](https://www.linkedin.com/in/akash-saravanan/)
+
+---
 
 ## 🚀 About Me  
-Results-driven Consultant with expertise in **data migration, workflow orchestration, and user-centered design**. Passionate about designing efficient workflows, scalable cloud solutions, and enhancing user experiences. Successfully led EPDM-to-Teamcenter and Autodesk-to-Teamcenter migrations, delivering solutions within tight deadlines.
+I'm a developer who designs with intent. With 2+ years of experience, I specialize in building user-focused web apps, automating complex workflows, and leading data migrations in PLM systems. I bridge the gap between design and engineering—always with an eye on clarity, speed, and scalability.
+
+---
 
 ## 🎓 Education  
-**B.E Production Engineering (SW)**, PSG College of Technology *(2017 - 2022)*  
-📌 Graduated with a **9.37 CGPA**. Active member of Students Union (Design Team).
+**B.E. Production Engineering (SW)**, PSG College of Technology  
+*2017 – 2022 | CGPA: 9.37*  
+📌 Member of the Students Union (Design Team)
+
+---
 
 ## 🎖 Certifications  
-✅ **Google UX Design Certificate** *(Aug 2024 - Dec 2024)*  
-✅ **Mendix Intermediate Certificate** *(Mar 2023 - Jul 2023)*
+- **Google UX Design Certificate** *(Aug 2024 – Dec 2024)*  
+- **Mendix Intermediate Developer** *(Mar 2023 – Jul 2023)*
+
+---
 
 ## 💼 Experience  
-### **Consultant - Mavenberg Innovations India Pvt. Ltd.** *(Mar 2023 - Present)*  
-- **MavenDX:** Led EPDM-to-Teamcenter data migration and developed an advanced orchestrator model for customizable workflows.
-- **License Usage Insights:** Implemented a solution for Siemens application license tracking.
-- **MavenReach:** Designed and deployed Mavenberg's website using **Next.js** and **Tailwind CSS**.
-- **Teamcenter Insights App:** Developed a Mendix-based visualization tool for analyzing Teamcenter data.
-- **Meople HRMS:** Designed and architected a comprehensive HRMS application.
+### **Full-Stack Developer & UX Designer – Mavenberg Innovations** *(Mar 2023 – Present)*  
+- Built **MavenDX**, a customizable orchestrator for EPDM-to-Teamcenter migrations  
+- Developed **License Usage Insights**, a real-time analytics platform for Siemens license data  
+- Shipped **MavenReach**, the company’s marketing site using **Next.js + Tailwind CSS**  
+- Created **Teamcenter Insights**, a Mendix app to visualize operational metrics  
+- Prototyped and architected **Meople HRMS**, a full-featured employee management system
 
-### **Associate Solution Engineer - Intern, LMNAs Cloud Solutions LLP** *(Feb 2021 - Jul 2021)*  
-- Customized **Frappe Framework** Doctypes with client and server scripts.
-- Automated Power BI reporting by integrating **SAP Excel exports** with **Python scripts**.
-- Developed a real-time dashboard reflecting updated KPIs seamlessly.
+### **Intern – LMNAs Cloud Solutions LLP** *(Feb 2021 – Jul 2021)*  
+- Customized apps using the **Frappe Framework**, including scripting and Docker deployments  
+- Automated SAP-to-Power BI pipelines using **Python**  
+- Built real-time dashboards to elevate production and sales insights
+
+---
 
 ## 🏆 Awards  
-🏅 **Above and Beyond Employee - Mavenberg Innovations** *(Mar 2024)*  
-Recognized for innovation and leadership in **MavenDX** projects.
+**Above and Beyond Employee – Mavenberg Innovations** *(Mar 2024)*  
+For leading complex migrations and pushing innovation across the MavenDX suite.
 
-## 🔥 Skills  
-### **Technical Skills**  
-- **Web Development:** Mendix, Next.js, React.js, Tailwind CSS, Express.js, Flask, Frappe Framework, Git  
-- **Basic Knowledge:** Vue.js, Docker  
-- **Analytics & Visualizations:** Power BI, Frappe Insights  
-- **Design Tools:** Figma, Adobe Photoshop, Illustrator, Canva  
-- **Video Editing:** Basic knowledge of Premiere Pro, After Effects  
+---
 
-### **Design Expertise**  
-🔹 User Research | Wireframing | Prototyping | Usability Studies | Presentation  
+## 🧠 Skills
 
-### **Collaboration & Communication**  
-🗣️ Strong Presenter | Detail-Oriented | Constructive Feedback | Communicative  
+### **Tech Stack**
+- **Frontend:** React.js, Next.js, Tailwind CSS, Vue.js (basic)  
+- **Backend:** Python, Express.js, Flask  
+- **Platforms:** Mendix, Frappe Framework  
+- **DevOps:** Git, Docker (basic), Azure (basic)  
+- **Analytics:** Power BI, Custom Dashboards, API Integrations
 
-## 📂 Projects  
-- **[Mavenberg Website](https://mavenberg.com)** - Built with **Next.js & Tailwind CSS**.
-- **LMNAs Cloud Solutions Website** - Designed and developed a modern, responsive website using **Figma & Next.js**.
-- **Power BI Dashboards** - Automated data flow integration from SAP to Power BI using **Python**.
+### **Design & UX**
+- Figma, Adobe Creative Suite (Photoshop, Illustrator)  
+- UX Research, Wireframing, Prototyping, Usability Testing  
 
-## 📌 Let's Connect!  
-💻 **GitHub:** [github.com/akashtqb06](https://github.com/akashtqb06)  
-🔗 **LinkedIn:** [linkedin.com/in/akash-saravanan](https://www.linkedin.com/in/akash-saravanan/)  
-🌐 **Portfolio:** [akashinsights.com](https://akashinsights.com)  
+### **Workflow & Communication**
+- Strong design communicator  
+- Cross-functional collaborator  
+- Detail-focused and feedback-driven  
+
+---
+
+## 📂 Key Projects  
+- **MavenDX Orchestrator** – Enterprise migration tool for Teamcenter  
+- **License Analytics** – Real-time dashboard for Siemens license usage  
+- **Teamcenter Insights** – Mendix app for operational visibility  
+- **MavenReach Website** – Shipped in 3 weeks using Next.js & Tailwind  
+- **LMNAs Website** – Designed in Figma, developed in Next.js  
+- **Power BI Integration** – SAP automation scripts with real-time dashboards  
+
+---
+
+## 🔗 Let’s Connect  
+💻 **GitHub:** [@akashtqb06](https://github.com/akashtqb06)  
+🔗 **LinkedIn:** [akash-saravanan](https://linkedin.com/in/akash-saravanan/)  
+🌐 **Portfolio:** [akash-insights.vercel.app](https://akash-insights.vercel.app)  
 📧 **Email:** akashtqb06@gmail.com  
 📞 **Phone:** +91 97902 45130
