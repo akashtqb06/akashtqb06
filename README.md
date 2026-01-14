@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a Consultant & Integration Specialist with 2+ years of experience building enterprise-grade platforms that bridge PLM, ERP, and CRM systems. I specialize in architecting analytical SaaS platforms, developing AI-powered solutions, and engineering high-performance data integration frameworks. My work spans full-stack development, microservices architecture, and intelligent automation—always focused on scalability, performance, and user experience.
+I'm a Consultant & Integration Specialist with 3+ years of experience building enterprise-grade platforms that bridge PLM, ERP, and CRM systems. I specialize in architecting analytical SaaS platforms, developing AI-powered solutions, and engineering high-performance data integration frameworks. My work spans full-stack development, microservices architecture, and intelligent automation—always focused on scalability, performance, and user experience.
 
 ---
 
