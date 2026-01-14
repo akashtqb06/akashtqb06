@@ -5,7 +5,7 @@
 🔹 **Portfolio:** [akash-insights.vercel.app](https://akash-insights.vercel.app)  
 🔹 **Email:** akashtqb06@gmail.com  
 🔹 **Phone:** +91 97902 45130  
-🔹 **GitHub:** [github.com/akashsaravanan](https://github.com/akashsaravanan)  
+🔹 **GitHub:** [github.com/akashtqb06](https://github.com/akashtqb06)  
 🔹 **LinkedIn:** [linkedin.com/in/akash-saravanan](https://www.linkedin.com/in/akash-saravanan/)
 
 ---
@@ -125,7 +125,7 @@ Developed web interface using Vite.js, Tailwind CSS, and React Flow for extracti
 
 ## 🔗 Let's Connect
 
-💻 **GitHub:** [@akashsaravanan](https://github.com/akashtqb06)  
+💻 **GitHub:** [@akashtqb06](https://github.com/akashtqb06)  
 🔗 **LinkedIn:** [akash-saravanan](https://linkedin.com/in/akash-saravanan/)  
 🌐 **Portfolio:** [akash-insights.vercel.app](https://akash-insights.vercel.app)  
 📧 **Email:** akashtqb06@gmail.com  
