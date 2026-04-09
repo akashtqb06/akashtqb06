@@ -28,11 +28,10 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akashtqb06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=akashtqb06&theme=tokyonight&hide_border=true" height="150" />
-</p>
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashtqb06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashtqb06&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=akashtqb06&label=visitors&color=7F77DD&style=flat-square" />
+![visitors](https://komarev.com/ghpvc/?username=akashtqb06&label=visitors&color=7F77DD&style=flat-square)
