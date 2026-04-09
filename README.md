@@ -28,9 +28,10 @@
 
 ### 📊 GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashtqb06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashtqb06&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashtqb06&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashtqb06&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
