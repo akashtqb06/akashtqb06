@@ -1,6 +1,6 @@
 # Hi, I'm Akash Saravanan 👋
 
-**Full Stack Developer & Systems Design Enthusiast**
+**Full Stack Engineer & Systems Design Enthusiast**
 
 📍 Bengaluru, India &nbsp;·&nbsp; [akash-insights.vercel.app](https://akash-insights.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/akashtqb06) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/akash-saravanan/) &nbsp;·&nbsp; akashtqb06@gmail.com
 
