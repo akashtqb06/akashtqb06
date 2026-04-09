@@ -27,11 +27,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akashtqb06&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashtqb06&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashtqb06&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashtqb06&theme=tokyonight&hide_border=true" height="150" />
 
 ---
 
